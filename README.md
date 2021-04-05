@@ -1,6 +1,5 @@
 # SploitX
 
-<p align="center"><a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="250px" src="https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/logo.png" /></a>
 <p align="center"><a href="https://youtube.com/c/MrAlexxx/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
 <p align="center"><a href="https://youtube.com/c/MrAlexxx/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr Alex-red?style=for-the-badge&logo=Youtube"></a>
 
