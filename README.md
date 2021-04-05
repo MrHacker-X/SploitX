@@ -30,7 +30,9 @@ bash sploitx.sh
 ```
 
 ## Screenshots:
-![photo](https:./github.com/MrHacker-X/SploitX/img/1.jpg/)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/menu.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/link.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/ip.jpg)
 
 ### Template Files
 + Template files for both messages and server pages can be found in the separate SploitX Templates repository. Any contributions regarding templates should also be submitted via a pull request to the templates repository.
