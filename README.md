@@ -28,8 +28,7 @@ git clone https://github.com/MrHacker-X/SploitX.git/
 cd SploitX
 chmod +x *
 bash sploitx.sh
-
-``` 
+```
 
 
 
@@ -49,7 +48,7 @@ bash sploitx.sh
 + The client message templates are formatted using the Jinja2 templating engine and support a number of variables. These are included here as a reference, check the templates wiki page for comprehensive documentation.
 
 <h3><b><i>📡 Connect with us :</i></b></h3>
-<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
-<a href="https://t.me/mrhackersx/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="assets/telegram.png" /></a>
-<a href="https://youtube.com/c/MrAlexxx/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="assets/youtube.png" /></a> 
+<a href="https://github.com/MrHacker-X/"><img align="left" title="Github" alt="Github" width="30px" src="https://raw.githubusercontent.com/MrHacker-X/MrHacker-X/main/assets/github.png" /></a>
+<a href="https://instagram.com/mrhacker.x/"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/instagram.png" /></a>
+<a href="https://t.me/mrhackersx/"><img align="left" title="Telegram" alt="Telegram" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/telegram.png" /></a>
+<a href="https://youtube.com/c/MrAlexxx/"><img align="left" title="YouTube" alt="YouTube" width="30px" src="https://github.com/MrHacker-X/MrHacker-X/blob/main/assets/youtube.png" /></a> 
