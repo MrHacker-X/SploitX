@@ -1,7 +1,7 @@
 # SploitX
 
 <p align="center"><a href="https://youtube.com/c/MrAlexxx/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
-<p align="center"><a href="https://youtube.com/c/MrAlexxx/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Mr Alex-red?style=for-the-badge&logo=Youtube"></a>
+<p align="center"><a href="https://youtube.com/c/HackerXX/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker X-red?style=for-the-badge&logo=Youtube"></a>
 
 <h3><b><i>Legal disclaimer</i></b></h3>
 
