@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 # Created by MrHacker-X (Alex)
 # https://github.com/MrHacker-X/SploitX.git/
 
@@ -579,7 +579,7 @@ printf "\e[0m\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Password:\e[0m\e[1;97m %s\n\e[0m" $password
 cat .alex/www/usernames.txt >> logs/$website.log
 printf "\e[0m\n"
-printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;96m Saved:\e[0m\e[1;97m logs/%s.log\e[0m\n" $website
+printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;92m Saved:\e[0m\e[1;97m logs/%s.log\e[0m\n" $website
 printf "\n"
 printf "\e[1;31m[\e[0m\e[1;77m#\e[0m\e[1;31m]\e[0m\e[1;97m Waiting for Next Login Info,\e[0m\e[1;92m Ctrl + C to exit.\e[0m\n"
 
