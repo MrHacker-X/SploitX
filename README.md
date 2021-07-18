@@ -14,6 +14,24 @@
 
 + Get the latest stable version from the GitHub Releases Page or use git to checkout the project from source.
 
+## Port Forwording Option:
++ LocalHost
++ Ngrok
++ Serveo.net
++ LocalXpose
++ LocalHostRun
+
+## Tested On:
++ Termux (Android)
++ Unix
++ Linux
+
+## Available For:
++ Termux (Android)
++ Unix
++ Linux
+
+
 ## Feature Overview
 + Run multiple phishing campaigns simultaneously
 + Send email with embedded images for a more legitimate appearance
@@ -26,17 +44,23 @@
 + Plugins
 + Both the client and server can be extended with functionality provided by plugins. A small number of plugins are packaged with SploitX and additional ones are available in the Plugins repository.
 
-## Usages:
+## Installation:
 ```
-pkg update
-pkg upgrade
-pkg install git
+apt-get update -y
+apt-get upgrade -y
+apt-get install git -y
 git clone https://github.com/MrHacker-X/SploitX.git/
 cd SploitX
 chmod +x *
 bash setup.sh
 bash sploitx.sh
 ```
+
+## Single Line Installation:
+```
+apt-get update -y && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/MrHacker-X/SploitX.git/ && cd SploitX && chmod +x * && bash setup.sh && bash sploitx.sh
+```
+
 
 ## Screenshots:
 ![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/mainmenu.jpg)
