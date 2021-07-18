@@ -1,7 +1,7 @@
 # SploitX
 
-<p align="center"><a href="https://youtube.com/c/MrAlexxx/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
-<p align="center"><a href="https://youtube.com/c/HackerXX/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker X-red?style=for-the-badge&logo=Youtube"></a>
+<p align="center"><a href="https://youtube.com/c/Sololex/"><img title="YouTube" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github">
+<p align="center"><a href="https://youtube.com/c/Sololex/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Hacker X-red?style=for-the-badge&logo=Youtube"></a>
 
 <h3><b><i>Legal disclaimer</i></b></h3>
 
@@ -28,16 +28,22 @@
 
 ## Usages:
 ```
+pkg update
+pkg upgrade
+pkg install git
 git clone https://github.com/MrHacker-X/SploitX.git/
 cd SploitX
 chmod +x *
+bash setup.sh
 bash sploitx.sh
 ```
 
 ## Screenshots:
-![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/menu.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/mainmenu.jpg)
 ![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/link.jpg)
-![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/ip.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/logininfo.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/port.jpg)
+![photo](https://raw.githubusercontent.com/MrHacker-X/SploitX/main/core/img/about.jpg)
 
 ### Template Files
 + Template files for both messages and server pages can be found in the separate SploitX Templates repository. Any contributions regarding templates should also be submitted via a pull request to the templates repository.
